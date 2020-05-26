@@ -68,7 +68,7 @@ end start
 
 ```
 
-![image-20200513155107465](C:\Users\poplar\Desktop\assembly-learn\images\image-20200513155107465.png)
+![image-20200513155107465](images\image-20200513155107465.png)
 
 **程序分析：**
 
